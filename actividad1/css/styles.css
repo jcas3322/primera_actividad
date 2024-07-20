@@ -1,0 +1,41 @@
+img{
+    width: 250px;
+    height: 50px;
+}
+
+#div_formato{
+    display: flex;
+    justify-content: end;
+    margin-right: 50px;;
+}
+
+#div_titulo{
+    text-align: center;
+}
+
+.contenedor{
+    width: 80%;
+
+}
+
+.contenedor_form{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;;
+}
+
+.div_form{
+    width: 300px;
+}
+
+.div_form label{
+    display: block;
+}
+
+.div_form input{
+    width: 100%;
+}
+
+.div_form select{
+    width: 100%;
+}
